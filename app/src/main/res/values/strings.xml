@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DetectBackground</string>
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="switch_to_second">Switch to Second Activity</string>
+    <string name="switch_to_first">Switch to First Activity</string>
+
+    <string name="background_message">The coast is clear, time to do background work!</string>
+</resources>
